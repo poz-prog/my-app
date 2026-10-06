@@ -1,0 +1,5 @@
+.aider*
+.env
+venv/
+node_modules/
+db.sqlite3
